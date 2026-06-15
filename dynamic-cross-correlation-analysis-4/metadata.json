@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic Cross-Correlation Analysis",
+  "description": "Biomolecular dynamic cross-correlation analysis tool with AI prediction models and interactive dashboards",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
